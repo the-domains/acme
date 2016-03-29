@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-29T15:19:40.761Z'
-dateModified: '2016-03-29T15:19:37.406Z'
+description: "2016\tFeb.4\tOneTwoThreeOneTwo\tManege de Reims\tFR\_"
+datePublished: '2016-03-29T15:40:18.204Z'
+dateModified: '2016-03-29T15:19:49.160Z'
 title: Performance and Workshops Calendar
 author: []
+sourcePath: _posts/2016-03-29-performance-and-workshops-calendar.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-performance-and-workshops-calendar.md
-published: true
 url: performance-and-workshops-calendar/index.html
 _type: Blurb
 
