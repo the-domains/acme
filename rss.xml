@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[acme]]></title>
+        <description><![CDATA[acme]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 14:35:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cia. Albert Quesada]]></title>
+            <description><![CDATA[<article><h1>Cia. Albert Quesada</h1><h2>CIA. ALBERT QUESADA</h2><p>undefined</p></article>]]></description>
+            <link>undefinedcia-albert-quesada/index.html</link>
+            <guid isPermaLink="false">12f15a5f-8b91-46de-a121-32ea66f951af</guid>
+            <pubDate>Tue, 29 Mar 2016 14:35:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
