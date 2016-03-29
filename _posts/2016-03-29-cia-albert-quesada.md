@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-29T14:35:02.843Z'
-dateModified: '2016-03-29T14:33:55.442Z'
+description: SATURDAY APRIL 02TH
+datePublished: '2016-03-29T14:41:03.831Z'
+dateModified: '2016-03-29T14:38:58.901Z'
+title: Cia. Albert Quesada
+author: []
+sourcePath: _posts/2016-03-29-cia-albert-quesada.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Cia. Albert Quesada
-author: []
-sourcePath: _posts/2016-03-29-cia-albert-quesada.md
-published: true
 url: cia-albert-quesada/index.html
 _type: Article
 
@@ -27,8 +27,9 @@ _type: Article
 ### CIA. ALBERT QUESADA
 
 ### [UNDOSTRESUNDOS][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40337c19-8090-482b-88c4-80285ddeced2.jpg)
 
-SATURDAY APRIL 02TH
+SATURDAY APRIL 02
 
 19:00 H
 
