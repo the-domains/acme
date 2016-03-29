@@ -1,29 +1,41 @@
-name: acme/AlbertQuesada
-favicon: null
-layout_spectrum: 0.892501157708466
-typography_spectrum: 0.6461188334506005
 title: acme/AlbertQuesada
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6820326689630747
+  brandStrength: 1
+  lightness: 0.348561069695279
+  brandColors:
+    - '#FE0000'
+    - '#FFFFFF'
+    - '#BF6264'
+    - '#BA1E20'
+    - '#FFA6A9'
+  rhythmicContrast: 0.95426075020805
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: acme/AlbertQuesada
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ae2223'
-    - '#ffffff'
-    - '#e9c6c6'
-    - '#cb7475'
-    - '#db9d9d'
-  brandStrength: 0.7560323022771627
-  lightness: 0.348561069695279
-  saturation: 0.6820326689630747
-  rhythmicContrast: 0.95426075020805
-purpose: []
+typography_spectrum: 0.6461188334506005
+layout_spectrum: 0.5134907
