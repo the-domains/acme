@@ -1,0 +1,28 @@
+name: acme
+favicon: null
+layout_spectrum: 0.892501157708466
+typography_spectrum: 0.6461188334506005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7560323022771627
+  lightness: 0.348561069695279
+  saturation: 0.6820326689630747
+  rhythmicContrast: 0.95426075020805
+purpose: []
