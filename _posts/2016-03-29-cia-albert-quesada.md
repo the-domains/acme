@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: SATURDAY APRIL 02TH
-datePublished: '2016-03-29T14:41:03.831Z'
-dateModified: '2016-03-29T14:38:58.901Z'
+description: SATURDAY APRIL 02
+datePublished: '2016-03-29T15:12:31.017Z'
+dateModified: '2016-03-29T14:41:17.521Z'
 title: Cia. Albert Quesada
 author: []
 sourcePath: _posts/2016-03-29-cia-albert-quesada.md
