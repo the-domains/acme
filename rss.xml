@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[acme-AlbertQuesada]]></title>
-        <description><![CDATA[acme-AlbertQuesada]]></description>
+        <title><![CDATA[acme/AlbertQuesada]]></title>
+        <description><![CDATA[acme/AlbertQuesada]]></description>
         <link>https://thegrid.ai/acme/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 14:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 15:00:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/acme/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.sismografolot.cat/wp-content/uploads/2016/01/sismograf-2016-undostres-quesada.jpg">]]></description>
+            <link>https://thegrid.ai/acme/56f5ffdd-d394-4a2b-ab28-c8bd57d981ed/index.html</link>
+            <guid isPermaLink="false">56f5ffdd-d394-4a2b-ab28-c8bd57d981ed</guid>
+            <pubDate>Tue, 29 Mar 2016 15:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cia. Albert Quesada]]></title>
             <description><![CDATA[<article><h1>Cia. Albert Quesada</h1><h2>CIA. ALBERT QUESADA</h2><p>SATURDAY APRIL 02</p></article>]]></description>
