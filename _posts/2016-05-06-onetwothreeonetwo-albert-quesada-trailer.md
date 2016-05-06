@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://vimeo.com/150912814'
 inLanguage: null
 keywords: []
-description: 'See Full Video here: http://bit.ly/aq12312 Get your password by asking Albert at quesadaalbert@gmail.com website: https://veraalbert.wordpress.com/alberts-work/flamenco-2015/'
-datePublished: '2016-05-06T14:49:30.790Z'
-dateModified: '2016-05-06T13:45:50.958Z'
+description: 'See Full Video here: http://bit.ly/aq12312 Get your password from Albert: quesadaalbert@gmail.com'
+datePublished: '2016-05-06T14:50:54.973Z'
+dateModified: '2016-05-06T14:50:30.028Z'
 author:
   - name: ''
     url: 'http://vimeo.com/user23546722'
