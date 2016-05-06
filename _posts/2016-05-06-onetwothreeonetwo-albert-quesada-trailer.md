@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/150912814'
+inLanguage: null
+keywords: []
+description: 'See Full Video here: http://bit.ly/aq12312 Get your password by asking Albert at quesadaalbert@gmail.com website: https://veraalbert.wordpress.com/alberts-work/flamenco-2015/'
+datePublished: '2016-05-06T13:45:48.700Z'
+dateModified: '2016-05-06T13:45:07.898Z'
 author:
-  - name: Klein Verzet
+  - name: ''
     url: 'http://vimeo.com/user23546722'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'See Full Video here: http://bit.ly/aq12312 Get your password by asking Albert at quesadaalbert@gmail.com website: https://veraalbert.wordpress.com/alberts-work/flamenco-2015/'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/150912814'
     type: ios
@@ -38,15 +40,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/150912814'
 title: OneTwoThreeOneTwo - Albert Quesada (Trailer)
-datePublished: '2016-05-06T13:41:23.002Z'
-dateModified: '2016-05-06T13:39:53.439Z'
-starred: false
 sourcePath: _posts/2016-05-06-onetwothreeonetwo-albert-quesada-trailer.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
